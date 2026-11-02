@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1793639916 source:c:\users\pc\documents\sql_lab1\exercice210.2\personne.cpp
+	"Personne.h"
+
+1793640276 c:\users\pc\documents\sql_lab1\exercice210.2\personne.h
+	<iostream>
+	<string>
+
+1793639975 source:c:\users\pc\documents\sql_lab1\exercice210.2\main.cpp
+	<iostream>
+	<Personne.h>
+
+1793640244 c:\users\pc\documents\sql_lab1\exercice210.2\\personne.h
+	<iostream>
+	<string>
+
